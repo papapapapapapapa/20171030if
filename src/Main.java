@@ -1,4 +1,3 @@
-  判別偶奇數
 import java.util.*;
 public class Main {
 
